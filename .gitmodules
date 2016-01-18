@@ -1,0 +1,345 @@
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kmf-samples"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kmf-samples
+	url = https://github.com/kevoree/kmf-samples.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kmfcpp"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kmfcpp
+	url = https://github.com/kevoree/kmfcpp.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kreg"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kreg
+	url = https://github.com/kevoree/kreg.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kubi"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kubi
+	url = https://github.com/kevoree/kubi.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/model"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/model
+	url = https://github.com/kevoree/model.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-input-http"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-input-http
+	url = https://github.com/kevoree/nodered-js-input-http.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-input-mqtt"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-input-mqtt
+	url = https://github.com/kevoree/nodered-js-input-mqtt.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-input-websocket"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-input-websocket
+	url = https://github.com/kevoree/nodered-js-input-websocket.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-output-debug"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-output-debug
+	url = https://github.com/kevoree/nodered-js-output-debug.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-output-mqtt"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-output-mqtt
+	url = https://github.com/kevoree/nodered-js-output-mqtt.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-output-websocket"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-js-output-websocket
+	url = https://github.com/kevoree/nodered-js-output-websocket.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-nodes"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/nodered-nodes
+	url = https://github.com/kevoree/nodered-nodes.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/spec"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/spec
+	url = https://github.com/kevoree/spec.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/tutorial-middleware2013"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/tutorial-middleware2013
+	url = https://github.com/kevoree/tutorial-middleware2013.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/xp-models15"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/xp-models15
+	url = https://github.com/kevoree/xp-models15.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/boot2kevoree"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/boot2kevoree
+	url = https://github.com/kevoree/boot2kevoree.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/boot2kevoree-cli"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/boot2kevoree-cli
+	url = https://github.com/kevoree/boot2kevoree-cli.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/CloudMOOBenchmark"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/CloudMOOBenchmark
+	url = https://github.com/kevoree/CloudMOOBenchmark.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/comparch2014"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/comparch2014
+	url = https://github.com/kevoree/comparch2014.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-java"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-java
+	url = https://github.com/kevoree/docker-image-java.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-javase_compact2"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-javase_compact2
+	url = https://github.com/kevoree/docker-image-javase_compact2.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-js"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-js
+	url = https://github.com/kevoree/docker-image-js.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-kevoree-browser-runtime"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-kevoree-browser-runtime
+	url = https://github.com/kevoree/docker-image-kevoree-browser-runtime.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-registry-replica"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-image-registry-replica
+	url = https://github.com/kevoree/docker-image-registry-replica.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-index"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-index
+	url = https://github.com/kevoree/docker-index.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-kevoree-java"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/docker-kevoree-java
+	url = https://github.com/kevoree/docker-kevoree-java.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/EJCP"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/EJCP
+	url = https://github.com/kevoree/EJCP.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/EJCP15"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/EJCP15
+	url = https://github.com/kevoree/EJCP15.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/generator-kevoree"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/generator-kevoree
+	url = https://github.com/kevoree/generator-kevoree.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/generator-kevoree-model"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/generator-kevoree-model
+	url = https://github.com/kevoree/generator-kevoree-model.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/grunt-kevoree"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/grunt-kevoree
+	url = https://github.com/kevoree/grunt-kevoree.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/grunt-kevoree-genmodel"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/grunt-kevoree-genmodel
+	url = https://github.com/kevoree/grunt-kevoree-genmodel.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/grunt-kevoree-registry"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/grunt-kevoree-registry
+	url = https://github.com/kevoree/grunt-kevoree-registry.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/java-ws-broadcaster"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/java-ws-broadcaster
+	url = https://github.com/kevoree/java-ws-broadcaster.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/java2go"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/java2go
+	url = https://github.com/kevoree/java2go.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-book"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-book
+	url = https://github.com/kevoree/kevoree-book.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-brain"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-brain
+	url = https://github.com/kevoree/kevoree-brain.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-browser-runtime"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-browser-runtime
+	url = https://github.com/kevoree/kevoree-browser-runtime.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-compare"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-compare
+	url = https://github.com/kevoree/kevoree-compare.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-cpp"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-cpp
+	url = https://github.com/kevoree/kevoree-cpp.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-docker-editor"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-docker-editor
+	url = https://github.com/kevoree/kevoree-docker-editor.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-docker-websocket-cdn"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-docker-websocket-cdn
+	url = https://github.com/kevoree/kevoree-docker-websocket-cdn.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet
+	url = https://github.com/kevoree/kevoree-dotnet.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-annotation"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-annotation
+	url = https://github.com/kevoree/kevoree-dotnet-annotation.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-chan-local"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-chan-local
+	url = https://github.com/kevoree/kevoree-dotnet-chan-local.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-chan-remotews"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-chan-remotews
+	url = https://github.com/kevoree/kevoree-dotnet-chan-remotews.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-chan-ws"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-chan-ws
+	url = https://github.com/kevoree/kevoree-dotnet-chan-ws.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-consoleprinter"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-consoleprinter
+	url = https://github.com/kevoree/kevoree-dotnet-comp-consoleprinter.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-helloworld"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-helloworld
+	url = https://github.com/kevoree/kevoree-dotnet-comp-helloworld.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-ticker"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-ticker
+	url = https://github.com/kevoree/kevoree-dotnet-comp-ticker.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-twitter-client"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-twitter-client
+	url = https://github.com/kevoree/kevoree-dotnet-comp-twitter-client.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-yield-version"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-comp-yield-version
+	url = https://github.com/kevoree/kevoree-dotnet-comp-yield-version.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core
+	url = https://github.com/kevoree/kevoree-dotnet-core.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-api"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-api
+	url = https://github.com/kevoree/kevoree-dotnet-core-api.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-bootstrap"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-bootstrap
+	url = https://github.com/kevoree/kevoree-dotnet-core-bootstrap.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-kevscript"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-kevscript
+	url = https://github.com/kevoree/kevoree-dotnet-core-kevscript.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-model"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-core-model
+	url = https://github.com/kevoree/kevoree-dotnet-core-model.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-group-mqtt"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-group-mqtt
+	url = https://github.com/kevoree/kevoree-dotnet-group-mqtt.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-group-remotews"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-group-remotews
+	url = https://github.com/kevoree/kevoree-dotnet-group-remotews.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-group-ws"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-group-ws
+	url = https://github.com/kevoree/kevoree-dotnet-group-ws.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-ikvm"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-ikvm
+	url = https://github.com/kevoree/kevoree-dotnet-ikvm.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-lib-annotation"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-lib-annotation
+	url = https://github.com/kevoree/kevoree-dotnet-lib-annotation.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-log"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-log
+	url = https://github.com/kevoree/kevoree-dotnet-log.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-log-api"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-log-api
+	url = https://github.com/kevoree/kevoree-dotnet-log-api.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-model-generator"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-model-generator
+	url = https://github.com/kevoree/kevoree-dotnet-model-generator.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-node"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-node
+	url = https://github.com/kevoree/kevoree-dotnet-node.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-nuget-loader"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-nuget-loader
+	url = https://github.com/kevoree/kevoree-dotnet-nuget-loader.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-registry-client"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-dotnet-registry-client
+	url = https://github.com/kevoree/kevoree-dotnet-registry-client.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-eclipse-plugin"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-eclipse-plugin
+	url = https://github.com/kevoree/kevoree-eclipse-plugin.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-gen-model"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-gen-model
+	url = https://github.com/kevoree/kevoree-gen-model.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-idea-plugin"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-idea-plugin
+	url = https://github.com/kevoree/kevoree-idea-plugin.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-java"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-java
+	url = https://github.com/kevoree/kevoree-java.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js
+	url = https://github.com/kevoree/kevoree-js.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-local"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-local
+	url = https://github.com/kevoree/kevoree-js-chan-local.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-mqtt"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-mqtt
+	url = https://github.com/kevoree/kevoree-js-chan-mqtt.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-remotews"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-remotews
+	url = https://github.com/kevoree/kevoree-js-chan-remotews.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-ws"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-chan-ws
+	url = https://github.com/kevoree/kevoree-js-chan-ws.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-commons"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-commons
+	url = https://github.com/kevoree/kevoree-js-commons.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-chart"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-chart
+	url = https://github.com/kevoree/kevoree-js-comp-chart.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-consoleprinter"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-consoleprinter
+	url = https://github.com/kevoree/kevoree-js-comp-consoleprinter.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-htmlviewer"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-htmlviewer
+	url = https://github.com/kevoree/kevoree-js-comp-htmlviewer.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-instancekiller"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-instancekiller
+	url = https://github.com/kevoree/kevoree-js-comp-instancekiller.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-instancemonitor"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-instancemonitor
+	url = https://github.com/kevoree/kevoree-js-comp-instancemonitor.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-kevscript"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-kevscript
+	url = https://github.com/kevoree/kevoree-js-comp-kevscript.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-mqttpubclient"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-mqttpubclient
+	url = https://github.com/kevoree/kevoree-js-comp-mqttpubclient.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-mqttsubclient"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-mqttsubclient
+	url = https://github.com/kevoree/kevoree-js-comp-mqttsubclient.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-msgsender"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-msgsender
+	url = https://github.com/kevoree/kevoree-js-comp-msgsender.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-mustache"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-mustache
+	url = https://github.com/kevoree/kevoree-js-comp-mustache.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-nodered"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-nodered
+	url = https://github.com/kevoree/kevoree-js-comp-nodered.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-ticker"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-ticker
+	url = https://github.com/kevoree/kevoree-js-comp-ticker.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-websiteviewer"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-websiteviewer
+	url = https://github.com/kevoree/kevoree-js-comp-websiteviewer.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-wsmsgbroker"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-comp-wsmsgbroker
+	url = https://github.com/kevoree/kevoree-js-comp-wsmsgbroker.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-core"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-core
+	url = https://github.com/kevoree/kevoree-js-core.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-entities"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-entities
+	url = https://github.com/kevoree/kevoree-js-entities.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-group-remotews"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-group-remotews
+	url = https://github.com/kevoree/kevoree-js-group-remotews.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-group-ws"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-group-ws
+	url = https://github.com/kevoree/kevoree-js-group-ws.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-kevscript"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-kevscript
+	url = https://github.com/kevoree/kevoree-js-kevscript.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-kotlin"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-kotlin
+	url = https://github.com/kevoree/kevoree-js-kotlin.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-library"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-library
+	url = https://github.com/kevoree/kevoree-js-library.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-node-javascript"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-node-javascript
+	url = https://github.com/kevoree/kevoree-js-node-javascript.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-resolvers"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js-resolvers
+	url = https://github.com/kevoree/kevoree-js-resolvers.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js.d.ts"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-js.d.ts
+	url = https://github.com/kevoree/kevoree-js.d.ts.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-library"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-library
+	url = https://github.com/kevoree/kevoree-library.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-model"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-model
+	url = https://github.com/kevoree/kevoree-model.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-nodejs-runtime"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-nodejs-runtime
+	url = https://github.com/kevoree/kevoree-nodejs-runtime.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-registry"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-registry
+	url = https://github.com/kevoree/kevoree-registry.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-registry-api-js"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-registry-api-js
+	url = https://github.com/kevoree/kevoree-registry-api-js.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-samples"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-samples
+	url = https://github.com/kevoree/kevoree-samples.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-telemetry"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-telemetry
+	url = https://github.com/kevoree/kevoree-telemetry.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-tutorials"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-tutorials
+	url = https://github.com/kevoree/kevoree-tutorials.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-watchdog"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-watchdog
+	url = https://github.com/kevoree/kevoree-watchdog.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-web-editor"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree-web-editor
+	url = https://github.com/kevoree/kevoree-web-editor.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree.github.io"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kevoree.github.io
+	url = https://github.com/kevoree/kevoree.github.io.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/keynote"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/keynote
+	url = https://github.com/kevoree/keynote.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kmf-ghcn"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kmf-ghcn
+	url = https://github.com/kevoree/kmf-ghcn.git
