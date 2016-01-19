@@ -343,3 +343,6 @@
 [submodule "/home/mleduc/dev/projet/head_cloc/projects/kevoree/kmf-ghcn"]
 	path = /home/mleduc/dev/projet/head_cloc/projects/kevoree/kmf-ghcn
 	url = https://github.com/kevoree/kmf-ghcn.git
+[submodule "projects/dukeboard/kevoree"]
+	path = projects/dukeboard/kevoree
+	url = git@github.com:dukeboard/kevoree.git

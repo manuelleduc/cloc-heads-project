@@ -35,3 +35,15 @@ Just add a subproject in the *./projects* directory, accordingly to the norm *./
 # Analysis
 Avec [Raw](http://raw.densitydesign.org/) il est possible d'obtenir rapidement des résultats parlants, par example :
 ![Distribution par langages](example.svg)
+
+```sql
+-- Excludes minified files, standards and files too big to be relevant.
+-- One we have gathered enough data we can limit ourselves to a subset of languages.
+SELECT *
+FROM t
+WHERE t.File NOT LIKE "%.min.js"
+AND t.File_basename <> 'nodes.d.ts'
+AND t.File_basename <> 'font-awesome.css'
+AND nCode < 10000
+ORDER BY t.nCode DESC;
+```
