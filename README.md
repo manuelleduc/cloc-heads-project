@@ -33,8 +33,8 @@ kevoree/docker-image-registry-replica
 Just add a subproject in the *./projects* directory, accordingly to the norm *./projects/\_groupname\_/\_projects\_name_*
 
 # Analysis
-Avec [Raw](http://raw.densitydesign.org/) il est possible d'obtenir rapidement des résultats parlants, par example :
-![Distribution par langages](example.svg)
+With [Raw](http://raw.densitydesign.org/) we can quickly generate nice dataviz :
+![Distribution par langages](https://raw.githubusercontent.com/manuelleduc/cloc-heads-project/master/example.svg)
 
 ```sql
 -- Excludes minified files, standards and files too big to be relevant.
