@@ -34,7 +34,7 @@ Just add a subproject in the *./projects* directory, accordingly to the norm *./
 
 # Analysis
 With [Raw](http://raw.densitydesign.org/) we can quickly generate nice dataviz :
-![Distribution par langages](https://raw.githubusercontent.com/manuelleduc/cloc-heads-project/master/example.svg)
+![Languages distribution](example.png)
 
 ```sql
 -- Excludes minified files, standards and files too big to be relevant.
