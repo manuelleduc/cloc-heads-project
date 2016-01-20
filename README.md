@@ -37,13 +37,41 @@ With [Raw](http://raw.densitydesign.org/) we can quickly generate nice dataviz :
 ![Languages distribution](example.png)
 
 ```sql
--- Excludes minified files, standards and files too big to be relevant.
--- One we have gathered enough data we can limit ourselves to a subset of languages.
+# count the number of loc by language, no data cleanup
+SELECT sum(x.nCode) as cptr, x.Language FROM t as x GROUP BY x.Language ORDER BY cptr DESC;
+
+# select every relevant datas
 SELECT *
 FROM t
 WHERE t.File NOT LIKE "%.min.js"
 AND t.File_basename <> 'nodes.d.ts'
 AND t.File_basename <> 'font-awesome.css'
+AND t.File_basename NOT LIKE 'jquery%.js'
+AND  t.File_basename <> 'bootstrap.css'
 AND nCode < 10000
 ORDER BY t.nCode DESC;
+
+# count the number of files in the db
+SELECT count(*)
+FROM t
+WHERE t.File NOT LIKE "%.min.js"
+AND t.File_basename <> 'nodes.d.ts'
+AND t.File_basename <> 'font-awesome.css'
+AND t.File_basename NOT LIKE 'jquery%.js'
+AND  t.File_basename <> 'bootstrap.css'
+AND nCode < 10000
+ORDER BY t.nCode DESC;
+
+# Prettify the selection, cleanup + nice text and limit to the top 15
+SELECT sum(t.nCode) as ttCode, CONCAT(t.Language, ' (', sum(t.nCode), ')') as Libelle
+FROM t
+WHERE t.File NOT LIKE "%.min.js"
+AND t.File_basename <> 'nodes.d.ts'
+AND t.File_basename <> 'font-awesome.css'
+AND t.File_basename NOT LIKE 'jquery%.js'
+AND  t.File_basename <> 'bootstrap.css'
+AND nCode < 10000
+GROUP BY t.Language
+ORDER BY ttCode DESC
+LIMIT 15;
 ```
