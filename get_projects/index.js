@@ -3,7 +3,7 @@ var _ = require('lodash');
 var user = process.argv[2];
 
 
-var get_page =  function(i) {
+var get_page =  function(i, callback) {
     var options = {
         host: "api.github.com",
         path: '/users/' + user + '/repos?per_page=100&page='+i,
@@ -21,15 +21,18 @@ var get_page =  function(i) {
         res.on('end', function () {
             var json = JSON.parse(body);
             var urls = _.map(json, function get_project_url(project) {
-                return project["full_name   "];
+                return project["full_name"];
             });
 
             console.log(_.join(urls, '\n'));
+            if(callback) callback();
         });
 
     });
 };
 
-get_page(1);
-get_page(2);
-get_page(3);
+get_page(1, function() {
+    get_page(2, function() {
+        get_page(3);
+    });
+});

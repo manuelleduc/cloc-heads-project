@@ -346,3 +346,54 @@
 [submodule "projects/dukeboard/kevoree"]
 	path = projects/dukeboard/kevoree
 	url = git@github.com:dukeboard/kevoree.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/ApamaComponents"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/ApamaComponents
+	url = https://github.com/HEADS-project/ApamaComponents.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/dockerFileFFMpegForTest"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/dockerFileFFMpegForTest
+	url = https://github.com/HEADS-project/dockerFileFFMpegForTest.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/forum"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/forum
+	url = https://github.com/HEADS-project/forum.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/HEADS-project.github.io"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/HEADS-project.github.io
+	url = https://github.com/HEADS-project/HEADS-project.github.io.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/heads_ide"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/heads_ide
+	url = https://github.com/HEADS-project/heads_ide.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/Kevoree2Occi"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/Kevoree2Occi
+	url = https://github.com/HEADS-project/Kevoree2Occi.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/KevoreeEsperComponents"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/KevoreeEsperComponents
+	url = https://github.com/HEADS-project/KevoreeEsperComponents.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/KevoreeRSSComponent"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/KevoreeRSSComponent
+	url = https://github.com/HEADS-project/KevoreeRSSComponent.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/methodology"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/methodology
+	url = https://github.com/HEADS-project/methodology.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/MODELS-2015-tutorial"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/MODELS-2015-tutorial
+	url = https://github.com/HEADS-project/MODELS-2015-tutorial.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/mraa"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/mraa
+	url = https://github.com/HEADS-project/mraa.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/mraa_hpp2ts_generator"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/mraa_hpp2ts_generator
+	url = https://github.com/HEADS-project/mraa_hpp2ts_generator.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/sintefboard"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/sintefboard
+	url = https://github.com/HEADS-project/sintefboard.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/training"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/training
+	url = https://github.com/HEADS-project/training.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/UseCases"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/UseCases
+	url = https://github.com/HEADS-project/UseCases.git
+[submodule "/home/mleduc/dev/projet/head_cloc/projects/HEADS-project/WeatherStationDemo"]
+	path = /home/mleduc/dev/projet/head_cloc/projects/HEADS-project/WeatherStationDemo
+	url = https://github.com/HEADS-project/WeatherStationDemo.git
+[submodule "projects/SINTEF-9012/ThingML"]
+	path = projects/SINTEF-9012/ThingML
+	url = git@github.com:SINTEF-9012/ThingML.git
