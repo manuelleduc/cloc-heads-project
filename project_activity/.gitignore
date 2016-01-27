@@ -4,3 +4,4 @@ dist/
 *.log
 *.tgz
 /.idea
+!/typings/missings.d.ts
