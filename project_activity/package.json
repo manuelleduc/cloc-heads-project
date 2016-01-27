@@ -1,0 +1,23 @@
+{
+  "name": "project_activity",
+  "version": "1.0.0",
+  "description": "Aggregate the activity of a project",
+  "main": "dist/index.js",
+  "scripts": {
+    "preinstall": "npm install autodts",
+    "postinstall": "autodts link",
+    "prepublish": "tsc && autodts generate"
+  },
+  "author": "Manuel Leduc",
+  "license": "ISC",
+  "typescript": {
+    "definition": "index.d.ts"
+  },
+  "dependencies": {
+    "autodts": "~0.0.4"
+  },
+  "devDependencies": {
+    "@lib/autodts-generator": "~0.0.1",
+    "typescript": "~1.5.3"
+  }
+}
