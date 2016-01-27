@@ -1,5 +1,6 @@
 declare module "github" {
-    export class GitHubApi {
+
+    class GitHubApi {
         constructor(a: {
             version: string;
             debug?:boolean;
@@ -11,5 +12,12 @@ declare module "github" {
             };
         });
         user: any;
+        repos: {
+            getStatsCommitActivity(msg: {
+                user: string,
+                repo:string
+            }, callback:any): void;
+        }
     }
+    export = GitHubApi;
 }
