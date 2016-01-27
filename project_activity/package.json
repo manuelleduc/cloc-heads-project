@@ -14,7 +14,9 @@
     "definition": "index.d.ts"
   },
   "dependencies": {
-    "autodts": "~0.0.4"
+    "autodts": "~0.0.4",
+    "github": "^0.2.4",
+    "mysql": "^2.10.2"
   },
   "devDependencies": {
     "@lib/autodts-generator": "~0.0.1",
