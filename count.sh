@@ -1,13 +1,5 @@
 #!/bin/bash
-MYSQL_USER=root
-MYSQL_PWD=cloc
-MYSQL_HOST=127.0.0.1
-MYSQL_PORT=3307
-DOCKER_CONTAINER_NAME=mysql_cloc
-MYSQL_DB_NAME=cloc
-PROJECTS_DIRECTORY=projects
-RESULT_PATH=result.sql
-RESULT_CLEANED_PATH=result_clean.sql
+source ./env.sh
 PWD=$(pwd)
 
 # init the mysql instance
@@ -37,7 +29,10 @@ done
 grep -v "^commit;$" $RESULT_PATH | grep -v "^begin transaction;$" > $RESULT_CLEANED_PATH
 
 # reset the content of the database
-mysql -u $MYSQL_USER --password=$MYSQL_PWD -h $MYSQL_HOST -P $MYSQL_PORT -e "DROP DATABASE IF EXISTS $MYSQL_DB_NAME; CREATE DATABASE $MYSQL_DB_NAME"
 
+mysql -u $MYSQL_USER --password=$MYSQL_PWD -h $MYSQL_HOST -P $MYSQL_PORT -e "DROP DATABASE IF EXISTS $MYSQL_DB_NAME; CREATE DATABASE $MYSQL_DB_NAME;"
 # add the result to the db
 mysql -u root --password=$MYSQL_PWD -h $MYSQL_HOST -P $MYSQL_PORT -D $MYSQL_DB_NAME < $RESULT_CLEANED_PATH
+
+cd $PWD
+./activity.sh

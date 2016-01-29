@@ -34,7 +34,11 @@ Just add a subproject in the *./projects* directory, accordingly to the norm *./
 
 # Analysis
 With [Raw](http://raw.densitydesign.org/) we can quickly generate nice dataviz :
+## Number of lines of code by languages
 ![Languages distribution](example.png)
+
+# Global GitHub activity by months
+![Monthly Github Activity](chart_heads_activity.png)
 
 ```sql
 # count the number of loc by language, no data cleanup
@@ -74,4 +78,21 @@ AND nCode < 10000
 GROUP BY t.Language
 ORDER BY ttCode DESC
 LIMIT 15;
+
+
+# activity by week
+SELECT subq.str_week as str_week, subq.nb_commit as nb_commit from (
+SELECT sum(a.activity) as nb_commit, min(a.week) as timestamp_week, DATE_FORMAT(FROM_UNIXTIME(a.week), "%d/%m/%Y") as str_week
+FROM activity as a
+GROUP BY DATE_FORMAT(FROM_UNIXTIME(a.week), "%d/%m/%Y")
+ORDER BY 2) subq
+WHERE subq.nb_commit > 0;
+
+#activity by month
+SELECT subq.str_month as str_month, subq.nb_commit as nb_commit from (
+SELECT sum(a.activity) as nb_commit, min(a.week) as timestamp_week, DATE_FORMAT(FROM_UNIXTIME(a.week), "%M %Y") as str_month
+FROM activity as a
+GROUP BY DATE_FORMAT(FROM_UNIXTIME(a.week), "%M %Y")
+ORDER BY 2) subq
+WHERE subq.nb_commit > 0;
 ```

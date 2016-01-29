@@ -12,6 +12,7 @@ declare module "github" {
             };
         });
         user: any;
+        authenticate: any;
         repos: {
             getStatsCommitActivity(msg: {
                 user: string,
